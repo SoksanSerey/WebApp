@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6.3 virtualenv at C:\Users\serey\Envs\project1" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6.3 (/usr/bin/python3.6)" project-jdk-type="Python SDK" />
+>>>>>>> ed7f48181af3adcc4e9bbe9c2f040211d4ddae82
 </project>
